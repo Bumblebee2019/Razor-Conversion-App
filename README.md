@@ -7,6 +7,6 @@ Razor pages are best used for quick, low-overhead pages with few moving parts. R
 
 ## Screnshots of working program
 
- !(original.PNG)
+ ![original.PNG]
 
 
