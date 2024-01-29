@@ -1,0 +1,41 @@
+﻿@page
+@using CountApp.Models
+@model CountApp.Pages.ConversionModel
+@{
+    <form method="post">
+        <input type="number" name="id"/>
+        <input type="text" name="Roman" />
+        <button type="submit">Add</button>
+    </form>
+
+    <table class="table">
+    <thead>
+        <tr>
+                <th>Id</th>
+                <th>Roman</th>
+                <th>Roman to Arabic</th>
+                
+        </tr>
+    </thead>
+  
+    <tbody>
+            @foreach(RomanNumber number in Model.NumList)
+            {
+                <tr>
+                    <td>
+                        @number.Id
+                    </td>
+                  
+                    <td>
+                        @number.Roman
+                    </td>
+                    <td>
+                        @number.RomanToArabic(number.Roman)
+                    </td>
+               
+                </tr>
+                
+            }
+        </tbody>
+    </table>
+}
