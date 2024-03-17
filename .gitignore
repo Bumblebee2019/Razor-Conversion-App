@@ -1,4 +1,4 @@
 .github
-.vs
+.vs/
 CountApp/bin/
 CountApp/obj/
