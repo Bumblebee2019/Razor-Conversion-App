@@ -33,3 +33,4 @@ C:\Users\daria\OneDrive\Documents\Interview_Projects\CountApp\CountApp\bin\Debug
 C:\Users\daria\OneDrive\Documents\Interview_Projects\CountApp\CountApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\daria\OneDrive\Documents\Interview_Projects\CountApp\CountApp\obj\Debug\net8.0\CountApp.csproj.AssemblyReference.cache
 C:\Users\daria\OneDrive\Documents\Interview_Projects\CountApp\CountApp\obj\Debug\net8.0\CountApp.csproj.CopyComplete
+C:\Users\daria\OneDrive\Documents\Interview_Projects\CountApp\CountApp\obj\Debug\net8.0\CountApp.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+835a14c619135b46253301321e3233715547c4e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
